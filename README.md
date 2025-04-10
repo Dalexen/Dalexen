@@ -1,9 +1,8 @@
-## Hi there 👋
 # ✨Struggling Through Reality✨
-## Apple User
-## I do things with windows
-## I also do Linux as a hobby
-### I have carpal tunnel so I will probably disappear for months at a time, sorry.
+Apple User
+I do things with windows
+I also do Linux as a hobby
+I have carpal tunnel so I will probably disappear for months at a time, sorry.
 <!--
 **Dalexen/Dalexen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
