@@ -1,4 +1,4 @@
-Hey! I'm Noah! I am a new coder that loves to mess with windwos, Minecraft, and some other stuff to. My Life goal is to create a Linux Distro that runs & is easy to use, thanks for checking out my profile!
+# Hey! I'm Noah! I am a new coder that loves to mess with windwos, Minecraft, and some other stuff to. My Life goal is to create a Linux Distro that runs & is easy to use, thanks for checking out my profile!
 # ✨Struggling Through Reality✨
 - Apple User
 - I do things with Windows
@@ -7,11 +7,11 @@ Hey! I'm Noah! I am a new coder that loves to mess with windwos, Minecraft, and 
 - Ask me anything!
 
 
-## I’m currently working on 
+## I’m currently working on:
 - The Windows XP Restoration Project
 
  
-## I’m currently learning
+## I’m currently learning:
 - MySQL
 - HTML
 - CSS
@@ -23,11 +23,11 @@ Hey! I'm Noah! I am a new coder that loves to mess with windwos, Minecraft, and 
 - SwiftUI
 
   
-## I’m looking to collaborate on
+## I’m looking to collaborate on:
 Nothing Right know, but please give me your ideas!
 
 
-## I’m looking for help with 
+## I’m looking for help with:
 - Codeing on WIndows (please give me your advice)
 - Codeing on Linux (My limits is sudo rm -rf --no-preserve-root)
 - Speeling
